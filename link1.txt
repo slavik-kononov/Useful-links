@@ -1,0 +1,2 @@
+1. https://github.com/anklstrannik/QA_bible/blob/master/Manual%20part%201.md - Библия тестировщика
+2. https://drive.google.com/drive/folders/1PPms2rbEvGloqTfbkDtlkdr-fyxqZUcc - ссылка на теорию, кто то на курсе себе сделал
